@@ -1,0 +1,5 @@
+nc : 3
+train : yolodata/custom/train.txt
+val : yolodata/custom/valid.txt
+test : yolodata/custom/test.txt
+names: [ none,bad,good,]
